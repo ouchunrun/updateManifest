@@ -1,0 +1,8 @@
+/bin
+/.project
+/.project.bak
+/.externalToolBuilders/
+/.settings/
+.idea/
+node_modules/
+.history/
