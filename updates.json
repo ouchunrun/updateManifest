@@ -4,7 +4,7 @@
       "updates": [
         {
           "version": "1.0.2.2",
-          "update_link": "https://github.com/ouchunrun/updateManifest/updateXpi/update.xpi"
+          "update_link": "https://github.com/ouchunrun/updateManifest/blob/main/updateXpi/update.xpi"
         }
       ]
     }
