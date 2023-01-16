@@ -1,9 +1,9 @@
 {
   "addons": {
-    "{78168d5a-08c3-4106-87d6-3edf3e611b0e}": {
+    "{ee3350cb-b002-485c-8ef5-add24a9ee52f}": {
       "updates": [
         {
-          "version": "1.0.2.2",
+          "version": "1.0.2.3",
           "update_link": "https://github.com/ouchunrun/updateManifest/blob/main/updateXpi/update.xpi"
         }
       ]
