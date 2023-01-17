@@ -3,8 +3,12 @@
     "{ee3350cb-b002-485c-8ef5-add24a9ee52f}": {
       "updates": [
         {
-          "version": "1.0.2.3",
-          "update_link": "https://github.com/ouchunrun/updateManifest/blob/main/updateXpi/update.xpi"
+          "version": "1.0.2.1",
+          "update_link": "https://github.com/ouchunrun/updateManifest/blob/main/updateXpi/0632e163b49a4921bac3-1.0.2.1.xpi"
+        },
+        {
+          "version": "1.0.2.2",
+          "update_link": "https://github.com/ouchunrun/updateManifest/blob/main/updateXpi/0632e163b49a4921bac3-1.0.2.2.xpi"
         }
       ]
     }
